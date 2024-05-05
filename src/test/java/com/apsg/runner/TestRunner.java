@@ -1,2 +1,4 @@
-package com.apsg.runner;public class TestRunner {
+package com.apsg.runner;
+
+public class TestRunner {
 }

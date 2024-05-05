@@ -19,3 +19,5 @@ buildNumber.properties
 
 allure-results
 allure-report
+
+src/test/resources/allure
